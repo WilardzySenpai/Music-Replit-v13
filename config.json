@@ -1,0 +1,5 @@
+{
+    "prefix": "!",
+    "slash":  "/", 
+    "mongooose": "mongodb+srv://hachiki-ticket:HsUaGzxKG5ojkweG@cluster0.7dnzs.mongodb.net/?retryWrites=true&w=majority"
+}
